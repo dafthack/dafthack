@@ -22,8 +22,3 @@ and metal along with some lead
 guitar work. A theme of "music to
 hack to" can be found throughout
 the tracks.
-      <a href="https://github.com/dafthack?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dafthack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/dafthack?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dafthack?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
